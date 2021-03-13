@@ -7,5 +7,8 @@ public class Hello {
             System.out.printIn("Welcome" + name);
 
         }
+        public static int sqr(int x) {
+            return x*x;
+        }
     
 }
